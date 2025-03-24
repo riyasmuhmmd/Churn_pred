@@ -1,0 +1,12 @@
+# requirements.txt
+
+pandas
+numpy
+scikit-learn
+ipykernel
+streamlit==1.24.0
+matplotlib
+seaborn
+joblib
+keras
+tensorflow
